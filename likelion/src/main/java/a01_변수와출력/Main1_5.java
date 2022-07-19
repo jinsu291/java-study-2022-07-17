@@ -3,7 +3,7 @@ package a01_변수와출력;
 // 문제 : a와 b가 가지고 있는 값을 서로 뒤바꿔주세요.
 // 조건 : 숫자와 사칙연산 사용 금지
 
-public class Main5 {
+public class Main1_5 {
     public static void main(String[] args) {
         // `int a` => a라는 이름의 변수(즉 공간)을 만든다.
         // `int` => a라는 공간에는 정수만 담을 수 있다.

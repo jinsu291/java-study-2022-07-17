@@ -5,7 +5,7 @@ package a01_변수와출력;
 // 조건 : \를 활용해서 줄바꿈 해주세요.
 // 힌트 : \n 은 줄바꿈을 의미합니다.
 
-public class Main3 {
+public class Main1_3 {
     public static void main(String[] args) {
         System.out.println("안녕하세요.\n안녕하세요.\n안녕하세요.\n안녕하세요.\n안녕하세요.\n안녕하세요.\n안녕하세요.\n안녕하세요.\n안녕하세요.\n안녕하세요.");
     }

@@ -1,6 +1,6 @@
 package a02_조건문;
 
-public class Explanation {
+public class Explanation2_1 {
 
 //    i++; => i 의 값을 1 증가 시킨다.
 //
