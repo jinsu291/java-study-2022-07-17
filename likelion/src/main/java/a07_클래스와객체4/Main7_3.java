@@ -1,7 +1,5 @@
 package a07_클래스와객체4;
 
-// 문제 : 99단을 만들어주세요
-
 public class Main7_3 {
     public static void main(String[] args) {
         계산기.더한결과를_화면에_출력(10, 20);
