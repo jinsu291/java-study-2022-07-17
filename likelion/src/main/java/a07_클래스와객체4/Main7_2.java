@@ -8,20 +8,12 @@ public class Main7_2 {
     }
     static class 구구단출력기 {
         void 작동() {
-            int dan = 2;
-
-            while ( dan <= 9 ) {
+            for ( int dan = 2; dan <= 9; dan++ ) {
                 System.out.println("== " + dan + "단 ==");
-
-                int i = 1;
-
-                while ( i <= 9 ) {
+                for ( int i = 1; i <= 9; i++ ) {
                     System.out.println(dan + " * " + i + " = " + dan * i);
-                    i++;
                 }
-
-                dan++;
             }
-    }
+        }
     }
 }
