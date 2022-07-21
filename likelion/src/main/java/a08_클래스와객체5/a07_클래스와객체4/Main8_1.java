@@ -1,6 +1,6 @@
 package a08_클래스와객체5.a07_클래스와객체4;
 
-// 문제 : 아래 코드가 실행되도록 자동차 클래스를 만들어주세요.
+// 문제 : 아래가 실행되도록 해주세요.
 
 public class Main8_1 {
     public static void main(String[] args) {
